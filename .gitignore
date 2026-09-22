@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+ 
+# Virtual environments
+venv/
+.venv/
+env/
+ 
+# Teachable Machine model (large binary, re-exportable — don't version it)
+converted_keras.zip
+converted_keras/
+ 
+# OS junk
+.DS_Store
+__MACOSX/
+ 
+
+

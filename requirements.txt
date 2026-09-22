@@ -1,0 +1,6 @@
+tensorflow
+tf_keras
+opencv-python
+pillow
+numpy
+pyserial
